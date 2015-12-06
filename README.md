@@ -7,9 +7,9 @@ Angular Smart Models is a angular wrapper for Smart Model library. It also provi
 ## Installation
 You can install Angular Smart Model from bower and npm.
 ### NPM
-```npm install angular-smart-model```
+```npm install angular-smart-models```
 ### Bower
-```bower install angular-smart-model```
+```bower install angular-smart-models```
 
 Then include Smart Model and Angular Smart Model scripts after the angular
 ```html
